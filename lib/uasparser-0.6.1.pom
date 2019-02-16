@@ -1,0 +1,12 @@
+<project>
+<modelVersion>0.6.1</modelVersion>
+<groupId>uasparser</groupId>
+<artifactId>uasparser</artifactId>
+<version>0.6.1</version>
+<dependencies/>
+</project>
+
+ <dependency>
+           <groupId>uasparser</groupId>
+           <artifactId>uasparser</artifactId>
+ </dependency>
